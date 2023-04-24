@@ -1,0 +1,11 @@
+{
+  "name": "wise",
+  "version": "1.0.0",
+  "description": "Comparar taxas de câmbio",
+  "main": "index.js",
+  "author": "Kalisia Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.10.0"
+  }
+}
